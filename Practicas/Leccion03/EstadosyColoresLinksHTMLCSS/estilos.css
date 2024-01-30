@@ -1,0 +1,23 @@
+h1{
+    color:#f07167;
+}
+/*Color nuevo link*/
+a:link{
+    color:#fb8500;
+    text-decoration: none;
+}
+/*Color link visitado*/
+a:visited{
+    color:#219ebc;
+    text-decoration: none;
+}
+/*Color en cima dellink*/
+a:hover{
+    color:#8ecae6;
+    text-decoration: underline;
+}
+/*Color link activado*/
+a:active{
+    color:#023047;
+    text-decoration: underline;
+}
